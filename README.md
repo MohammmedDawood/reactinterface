@@ -1,6 +1,6 @@
 # React.js: Building an Interface
 
-This is the repository for the LinkedIn Learning course React.js: Building an Interface.
+This is the repository for the LinkedIn Learning course React.js: Building an Interface (Appointments App).
 
 Also, has an overview over tailwindcss.
 
